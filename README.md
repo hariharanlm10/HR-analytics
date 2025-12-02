@@ -3,8 +3,8 @@
 📌 Purpose / Overview
 
 The HR Analytics Dashboard provides an end-to-end view of workforce performance between 2013 and 2019, helping HR teams, executives, and business stakeholders make data-driven decisions related to talent acquisition, retention strategy, workforce distribution, skill planning, and organizational development.
-
-🔧 Tech Stack
+**
+🔧 Tech Stack**
 
 This dashboard was built using:
 
@@ -17,9 +17,9 @@ This dashboard was built using:
 🗂 Data Modeling — relationships among employee, retention, salary and demographics tables
 
 📁 File Format — .pbix for Power BI and exported .pdf view for demonstration
-
+**
 📂 Data Source & Structure
-
+**
 The dataset includes HR employee records with details covering:
 
 Employee demographics (age, gender, marital status, education level, race)
@@ -32,7 +32,7 @@ Retention and turnover details with termination type & reason
 
 Records span over 2,700+ employees, covering multiple departments, job levels, and geographic locations.
 
-⭐ Key Features & Highlights
+**⭐ Key Features & Highlights**
 Business Problem
 
 Organizations often struggle to view HR metrics holistically — making it difficult to:
@@ -59,7 +59,7 @@ Benchmark workforce distribution by demographics, job level, and location
 
 Support talent strategy, workforce planning, and policy improvement
 
-📊 Walkthrough of Key Visuals
+**📊 Walkthrough of Key Visuals**
 Page 1 — Headcount Analysis
 
 Total Headcount KPI (dynamic based on selected year range): 2,796 employees
